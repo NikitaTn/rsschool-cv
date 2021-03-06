@@ -51,5 +51,5 @@ designer.report = report;
 // Show the report designer in the 'content' element
 designer.renderHtml("content");
 ``` 
-**English level**
+**English level**<br>
 According to the [EfSet](https://www.efset.org/ru/) websie my English level is B1
